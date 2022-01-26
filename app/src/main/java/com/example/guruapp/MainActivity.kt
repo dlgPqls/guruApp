@@ -1,4 +1,4 @@
-package com.example.guruexampleapp
+package com.example.guruapp
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
